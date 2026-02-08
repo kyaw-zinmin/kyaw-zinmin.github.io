@@ -37,7 +37,7 @@ Error generating stack: `+a.message+`
       row-span-1 
       ${ue(c)}
       `},whatilove:{container:`
-      col-span-4 col-start-1 row-span-1 row-start-6
+      col-span-4 col-start-1 row-span-1 row-start-7
       grid grid-cols-4 grid-rows-5
       min-h-35
       mt-12
@@ -52,7 +52,7 @@ Error generating stack: `+a.message+`
       `},contacts:{container:`
       pt-6
       col-span-4 col-start-1 
-      row-span-1 row-start-8
+      row-span-1 row-start-9
       mt-12
       `,footer:`
       py-2
