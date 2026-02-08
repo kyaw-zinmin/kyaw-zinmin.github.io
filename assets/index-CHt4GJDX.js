@@ -52,7 +52,7 @@ Error generating stack: `+a.message+`
       `},contacts:{container:`
       pt-6
       col-span-4 col-start-1 
-      row-span-1 row-start-9
+      row-span-1 row-start-10
       mt-12
       `,footer:`
       py-2
